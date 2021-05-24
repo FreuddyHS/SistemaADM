@@ -1,6 +1,6 @@
 /**********************************************************
  * AUTOR : Freuddy Hernandez
- * CORREO: freuddyh@vortexz.tk
+ * CORREO: freuddyjhs13@gmail.com
  * CARRERA: Tsu Informatica
  * FECHA : 11/2018
  **********************************************************/
